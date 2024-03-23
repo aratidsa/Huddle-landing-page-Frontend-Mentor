@@ -31,7 +31,7 @@ In this small project, build out this Huddle landing page with a single introduc
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/aratidsa/Huddle-landing-page-Frontend-Mentor
 - Live Site URL: 
 
 ## My process
