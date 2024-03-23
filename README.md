@@ -25,6 +25,7 @@ In this small project, build out this Huddle landing page with a single introduc
 
   
 - Mobile
+  
 ![Screenshot 2024-03-24 003100](https://github.com/aratidsa/Huddle-landing-page-Frontend-Mentor/assets/128802362/92deb40e-67d3-4755-96ee-2abe4e9f8d1d)
 ![Screenshot 2024-03-24 003119](https://github.com/aratidsa/Huddle-landing-page-Frontend-Mentor/assets/128802362/4433a095-83f5-44e6-8d86-f7252b50bbab)
 
